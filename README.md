@@ -1,6 +1,6 @@
 # StackExchange_Scraper
 
-First, enter your login information to request-keys.json if you want to scrape stackexchange or to usrpass.txt if you want to scrape stocktwits.
+StackExchange_Scraper is a tool designed to scrape data from StackExchange and StockTwits. This project includes a Jupyter notebook for each platform, allowing you to easily gather data.
 
 ### StackExchange Scraping
 1. Enter your login information in `request-keys.json`:
